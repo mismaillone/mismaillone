@@ -1,5 +1,5 @@
 <img src="https://github.com/mismaillone/ctf-writeups/blob/main/cybersecurity-banner.png?raw=true">
-<h1 align="center">Hi 👋, I'm Mohammad Isamil</h1>
+<h1 align="center">Hi 👋, I'm Mohammad Ismail</h1>
 <h3 align="center">Java Enthusiast | Coffee Lover ☕ | Ready to Code and Create in the Java Universe 🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mismaillone&label=Profile%20views&color=0e75b6&style=flat" alt="mismaillone" /> </p>
